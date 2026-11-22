@@ -1,0 +1,21 @@
+Copyright (c) 2025-2026 玩中學 做中學 (興隆D2社宅・青年創新回饋計畫)
+All rights reserved.
+
+All source code, text, photographs, illustrations, videos and other materials
+in this repository, and on the website it publishes, are the property of the
+copyright holder named above.
+
+No part of this work may be copied, redistributed, modified, publicly
+displayed or used for commercial purposes without prior written permission
+from the copyright holder.
+
+Photographs of children and parents are published only as a record of this
+program's activities. They may not be used for any other purpose.
+
+Third-party components are used under their own licenses and are not covered
+by the terms above:
+- Astro and @astrojs/sitemap (MIT License), https://github.com/withastro/astro
+- Chart styling inspired by diagram-design (MIT License),
+  https://github.com/cathrynlavery/diagram-design
+- Web fonts served by Google Fonts, under their respective licenses
+  (SIL Open Font License).
